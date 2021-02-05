@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Programacion Computacional IV"/>
+    <HelloWorld msg="Programacion Computacional IV" />
   </div>
 </template>
 
